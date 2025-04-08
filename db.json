@@ -1,0 +1,267 @@
+{
+  "users": [
+    {
+      "id": "1a4e",
+      "username": "admin",
+      "password": "$2a$12$fia5CgWStqoh3LEBe3Jvuuxz0UTUrimJxhTtk6Thwg.rU0jXpzbyy"
+    }
+  ],
+  "anime": [
+    {
+      "id": "7b3e",
+      "judul": "Attack on Titan",
+      "studio": "MAPPA",
+      "tahun_rilis": 2013,
+      "genre": "Action",
+      "tipe": "series"
+    },
+    {
+      "id": "2fa1",
+      "judul": "Your Name",
+      "studio": "CoMix Wave Films",
+      "tahun_rilis": 2016,
+      "genre": "Romance",
+      "tipe": "movie"
+    },
+    {
+      "id": "9d40",
+      "judul": "Demon Slayer",
+      "studio": "ufotable",
+      "tahun_rilis": 2019,
+      "genre": "Action",
+      "tipe": "series"
+    },
+    {
+      "judul": "Spirited Away",
+      "studio": "Studio Ghibli",
+      "tahun_rilis": "2001",
+      "genre": "Fantasy",
+      "tipe": "movie",
+      "id": "cb0e"
+    },
+    {
+      "id": "81f2",
+      "judul": "Clannad",
+      "studio": "Kyoto Animation",
+      "tahun_rilis": 2007,
+      "genre": "Romance",
+      "tipe": "series"
+    },
+    {
+      "id": "a457",
+      "judul": "A Silent Voice",
+      "studio": "Kyoto Animation",
+      "tahun_rilis": 2016,
+      "genre": "Romance",
+      "tipe": "movie"
+    },
+    {
+      "id": "0ec9",
+      "judul": "My Hero Academia",
+      "studio": "Bones",
+      "tahun_rilis": 2016,
+      "genre": "Action",
+      "tipe": "series"
+    },
+    {
+      "id": "db34",
+      "judul": "Howl's Moving Castle",
+      "studio": "Studio Ghibli",
+      "tahun_rilis": 2004,
+      "genre": "Fantasy",
+      "tipe": "movie"
+    },
+    {
+      "id": "e84a",
+      "judul": "Fruits Basket",
+      "studio": "TMS Entertainment",
+      "tahun_rilis": 2019,
+      "genre": "Romance",
+      "tipe": "series"
+    },
+    {
+      "id": "b127",
+      "judul": "Kiki's Delivery Service",
+      "studio": "Studio Ghibli",
+      "tahun_rilis": 1989,
+      "genre": "Slice of Life",
+      "tipe": "movie"
+    },
+    {
+      "id": "d5c3",
+      "judul": "Jujutsu Kaisen",
+      "studio": "MAPPA",
+      "tahun_rilis": 2020,
+      "genre": "Action",
+      "tipe": "series"
+    },
+    {
+      "id": "3a9f",
+      "judul": "Whisper of the Heart",
+      "studio": "Studio Ghibli",
+      "tahun_rilis": 1995,
+      "genre": "Romance",
+      "tipe": "movie"
+    },
+    {
+      "id": "c01b",
+      "judul": "Horimiya",
+      "studio": "CloverWorks",
+      "tahun_rilis": 2021,
+      "genre": "Slice of Life",
+      "tipe": "series"
+    },
+    {
+      "id": "f144",
+      "judul": "Weathering with You",
+      "studio": "CoMix Wave Films",
+      "tahun_rilis": 2019,
+      "genre": "Romance",
+      "tipe": "movie"
+    },
+    {
+      "id": "5dd9",
+      "judul": "Mob Psycho 100",
+      "studio": "Bones",
+      "tahun_rilis": 2016,
+      "genre": "Action",
+      "tipe": "series"
+    },
+    {
+      "id": "8a3b",
+      "judul": "The Wind Rises",
+      "studio": "Studio Ghibli",
+      "tahun_rilis": 2013,
+      "genre": "Slice of Life",
+      "tipe": "movie"
+    },
+    {
+      "id": "ae89",
+      "judul": "Re:Zero",
+      "studio": "White Fox",
+      "tahun_rilis": 2016,
+      "genre": "Fantasy",
+      "tipe": "series"
+    },
+    {
+      "id": "17ef",
+      "judul": "5 Centimeters per Second",
+      "studio": "CoMix Wave Films",
+      "tahun_rilis": 2007,
+      "genre": "Romance",
+      "tipe": "movie"
+    },
+    {
+      "id": "6bcd",
+      "judul": "Erased",
+      "studio": "A-1 Pictures",
+      "tahun_rilis": 2016,
+      "genre": "Fantasy",
+      "tipe": "series"
+    },
+    {
+      "id": "9481",
+      "judul": "I Want to Eat Your Pancreas",
+      "studio": "Studio VOLN",
+      "tahun_rilis": 2018,
+      "genre": "Romance",
+      "tipe": "movie"
+    },
+    {
+      "id": "be05",
+      "judul": "Sword Art Online",
+      "studio": "A-1 Pictures",
+      "tahun_rilis": 2012,
+      "genre": "Fantasy",
+      "tipe": "series"
+    },
+    {
+      "id": "fd21",
+      "judul": "Princess Mononoke",
+      "studio": "Studio Ghibli",
+      "tahun_rilis": 1997,
+      "genre": "Fantasy",
+      "tipe": "movie"
+    },
+    {
+      "id": "b9c0",
+      "judul": "March Comes in Like a Lion",
+      "studio": "Shaft",
+      "tahun_rilis": 2016,
+      "genre": "Slice of Life",
+      "tipe": "series"
+    },
+    {
+      "id": "6f32",
+      "judul": "The Garden of Words",
+      "studio": "CoMix Wave Films",
+      "tahun_rilis": 2013,
+      "genre": "Romance",
+      "tipe": "movie"
+    },
+    {
+      "id": "9137",
+      "judul": "Black Clover",
+      "studio": "Studio Pierrot",
+      "tahun_rilis": 2017,
+      "genre": "Action",
+      "tipe": "series"
+    },
+    {
+      "id": "3d1f",
+      "judul": "The Girl Who Leapt Through Time",
+      "studio": "Madhouse",
+      "tahun_rilis": 2006,
+      "genre": "Fantasy",
+      "tipe": "movie"
+    },
+    {
+      "id": "c6ab",
+      "judul": "Barakamon",
+      "studio": "Kinema Citrus",
+      "tahun_rilis": 2014,
+      "genre": "Slice of Life",
+      "tipe": "series"
+    },
+    {
+      "id": "d0f8",
+      "judul": "The Tale of the Princess Kaguya",
+      "studio": "Studio Ghibli",
+      "tahun_rilis": 2013,
+      "genre": "Fantasy",
+      "tipe": "movie"
+    },
+    {
+      "id": "a213",
+      "judul": "K-On!",
+      "studio": "Kyoto Animation",
+      "tahun_rilis": 2009,
+      "genre": "Slice of Life",
+      "tipe": "series"
+    },
+    {
+      "id": "e6aa",
+      "judul": "Belle",
+      "studio": "Studio Chizu",
+      "tahun_rilis": 2021,
+      "genre": "Fantasy",
+      "tipe": "movie"
+    },
+    {
+      "id": "0d63",
+      "judul": "Made In Abyss",
+      "studio": "Kinema Citrus",
+      "tahun_rilis": "2017",
+      "genre": "Fantasy",
+      "tipe": "series"
+    },
+    {
+      "judul": "aa",
+      "studio": "aa",
+      "tahun_rilis": "2025",
+      "genre": "aa",
+      "tipe": "series",
+      "id": "0351"
+    }
+  ]
+}
